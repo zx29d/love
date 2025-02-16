@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>恋人选择</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        < img src="cat-illustration.png" alt="可爱的卡通形象" class="illustration">
+        <p class="question">可以成为我的恋人吗？</p >
+        <div class="buttons">
+            <button class="btn yes">可以</button>
+            <button class="btn no">不要</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
